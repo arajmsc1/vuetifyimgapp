@@ -14,7 +14,7 @@
 
         <v-list density="compact" nav>
           <v-list-item prepend-icon="mdi-folder" title="Color" value="Color View" @click="$emit('selectOption',true)"></v-list-item>
-          <v-list-item prepend-icon="mdi-account-multiple" title="Grey" value="Grey"  @click="$emit('selectOption',false)"></v-list-item>
+          <v-list-item prepend-icon="mdi-account-multiple" title="GreyA" value="GreyA"  @click="$emit('selectOption',false)"></v-list-item>
          
         </v-list>
       
